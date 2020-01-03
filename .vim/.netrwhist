@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/kh/Practice/handout/part2'
+let g:netrw_dirhist_2='/home/kh/Practice/handout'
+let g:netrw_dirhist_3='/home/kh/Downloads/handout/utils'
+let g:netrw_dirhist_4='/home/kh/Practice'
+let g:netrw_dirhist_5='/home/kh'
