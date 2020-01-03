@@ -1,4 +1,3 @@
-cp .tmux.conf $HOME/.
 cp .vimrc $HOME/.
 
 wget http://cscope.sourceforge.net/cscope_maps.vim -P $HOME/.vim/plugin
